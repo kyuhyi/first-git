@@ -1,0 +1,39 @@
+container {
+    background: rgb(158, 238, 54);
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  
+ 
+  .jacob_1 {
+    background: yellow;
+  }
+  .jacob_2 {
+    background: rgb(122, 114, 224);
+  } 
+  .jacob_3 {
+    background: rgb(15, 233, 131);
+  } 
+  .jacob_4 {
+    background: rgb(245, 97, 11);
+  } 
+  .jacob_5 {
+    background: rgb(35, 216, 240);
+  } 
+  .jacob_6 {
+    background: rgb(204, 240, 180);
+  } 
+  .jacob_7 {
+    background: rgb(221, 141, 36);
+  } 
+  .jacob_8 {
+    background: rgb(65, 202, 106);
+  } 
+  .jacob_9 {
+    background: rgb(28, 201, 231);
+  } 
+  .jacob_10 {
+    background: rgb(224, 21, 174);
+  } 
